@@ -34,6 +34,6 @@ https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers
 
 # Installation / Run
 - Clone code from git hub
-- Open file sln using VS 2015 Expedia.Website.sln
+- Open sln file using VS 2015  [Expedia.Website.sln]
 - From VS main menu Build->Build Solution 
 - Now that you’ve successfully built your code, run Debug it by selecting Debug->Start Debugging.
