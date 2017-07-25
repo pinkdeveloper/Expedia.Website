@@ -20,7 +20,7 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
     <link rel="stylesheet" href="../Assest/Css/custom.css">
-     <link rel="stylesheet" href="../Assest/Css/rating.css">
+    <link rel="stylesheet" href="../Assest/Css/rating.css">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" type="text/css" />
@@ -36,7 +36,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body class="">
 
@@ -48,12 +48,11 @@
             <div class="row content-holder">
                 <div class="col-sm-12 content">
                     <div class="row">
-                            <div class="tab-content">
-                                <div class="tab-pane vertical active" id="tab1">
-                                    hi
-                                  <%--  <uc1:SearchForm runat="server" ID="searchForm" />--%>
-                                </div>
+                        <div class="tab-content">
+                            <div class="tab-pane vertical active" id="tab1">
+                                <uc1:SearchForm runat="server" ID="searchForm" />
                             </div>
+                        </div>
                         <div class="clearfix"></div>
                     </div>
                 </div>
