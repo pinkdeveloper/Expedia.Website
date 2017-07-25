@@ -1,0 +1,22 @@
+﻿img {
+    width: 130px;
+}
+.datepicker {
+    background-image: url(../Images/icon.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+.hero img
+{
+    width:100%;
+}
+
+.content-holder
+{
+    margin-left: 145px;
+}
+
+.btn-submit{
+    padding: 10px 80px;
+}

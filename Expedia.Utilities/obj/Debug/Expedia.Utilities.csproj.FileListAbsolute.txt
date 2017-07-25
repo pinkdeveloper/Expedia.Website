@@ -1,0 +1,7 @@
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\bin\Debug\Expedia.Utilities.dll
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\bin\Debug\Expedia.Utilities.pdb
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\obj\Debug\Expedia.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\obj\Debug\Expedia.Utilities.dll
+C:\Users\baraa\Documents\Visual Studio 2015\Projects\Expedia.Website\Expedia.Utilities\obj\Debug\Expedia.Utilities.pdb
