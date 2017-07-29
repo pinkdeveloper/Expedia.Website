@@ -1,4 +1,4 @@
-# Expidea.Website
+# Expedia.Website
 Hotel Deals Search Form, allows users to search from a basic search and then to be able to narrow 
 down the results using the various filters in the form.
 
